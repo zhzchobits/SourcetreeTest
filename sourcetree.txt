@@ -1,3 +1,4 @@
  first TEST
  pull TEST
+ computer conflict TEST
  second TEST
