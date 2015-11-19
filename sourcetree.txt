@@ -1,3 +1,4 @@
  first TEST
  pull TEST
  second TEST
+ reset TEST 1
