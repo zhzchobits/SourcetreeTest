@@ -3,3 +3,4 @@
  computer conflict TEST
  second TES
  git conflict TEST
+ git conflict TEST 
