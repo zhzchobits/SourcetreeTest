@@ -1,5 +1,6 @@
  first TEST
  pull TEST
  computer conflict TEST
+ computer conflict TEST
  second TES
  git conflict TEST
